@@ -1,0 +1,5 @@
+Fruits=("Apples","Mangoes","Strawberries","Berries","Bananas","Oranges","Grapes","Watermelons")
+print(Fruits)
+mylist=list(Fruits)
+print(mylist[3])
+print(type(mylist))
